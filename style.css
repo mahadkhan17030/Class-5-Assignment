@@ -1,0 +1,24 @@
+body{
+     background-color: bisque;
+}
+a{
+      color: red;
+}
+h1#portfolio{
+     color: rgba(255, 250, 250, 1);
+    background-color: black;
+}
+p#intro{
+    color: black;
+background-color: aqua; opacity: 0.9; range:
+}
+h1#name{
+    background-color: white;
+}
+a#resume ,#contact,#whatsapp,#instagram,#facebook,#about{
+background-color: black;
+}
+body{
+    text-transform: capitalize;
+}
+
